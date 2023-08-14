@@ -2,7 +2,7 @@
 layout: post
 title:  "테스트 제목ㅎㅎ"
 date:   2099-08-14 22:55:00
-categories: 테스트 카테고리
+categories: "테스트 카테고리"
 ---
 
 적용되는 마크다운에 차이가 있음.
