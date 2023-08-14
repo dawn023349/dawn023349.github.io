@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "테스트 제목ㅎㅎ"
+date:   2099-08-14 22:55:00
+categories: 테스트 카테고리
+---
+
+적용되는 마크다운에 차이가 있음.
+
+ㅎㅎ
+
+{% highlight ruby %}
+에디터를
+  다른거를 써야
+겠음
+#=> ruby code box
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com
